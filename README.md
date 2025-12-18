@@ -16,7 +16,7 @@ In this trie:
 
 ---
 
-## Input Format (CLI Program)
+## Input Format
 This repository includes a single test program that reads commands from **stdin** and prints results to **stdout**.
 
 ### Commands

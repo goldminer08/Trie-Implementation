@@ -59,6 +59,7 @@ Prints the number of stored classifications.
 
 #### `EXIT`
 Terminates the program.  
+
 ---
 
 ## Illegal Argument Handling (Uppercase Letters)

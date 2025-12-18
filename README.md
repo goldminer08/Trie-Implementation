@@ -26,7 +26,6 @@ Loads classifications from a file where each line is:
 `<base class>,<subclass>,<subsubclass>...`
 
 - If a classification already exists, that line is ignored.
-- **Output:** `success` (always)
 
 #### `INSERT classification`
 Inserts a new classification path (comma-separated).

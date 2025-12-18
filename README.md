@@ -62,7 +62,7 @@ Terminates the program.
 ---
 
 ## Illegal Argument Handling (Uppercase Letters)
-For `INSERT`, `CLASSIFY`, and `ERASE`, if the input contains **any uppercase English letters**, the program must:
+For `INSERT`, `CLASSIFY`, and `ERASE`, if the input contains **any uppercase English letters**, the program will:
 1. Throw a custom exception:
    - `illegal exception`
 2. Catch it and print:

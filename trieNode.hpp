@@ -9,5 +9,6 @@ class trieNode {
         trieNode* subclasses[15]{}; 
         bool isterminal{};
         trieNode* parent;
+        bool uni_insert = false;
     private:
 };
